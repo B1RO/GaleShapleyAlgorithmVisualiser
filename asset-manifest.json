@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GaleShapleyAlgorithmVisualiser/static/css/main.bd3e61b6.chunk.css",
+    "main.js": "/GaleShapleyAlgorithmVisualiser/static/js/main.948683f9.chunk.js",
+    "main.js.map": "/GaleShapleyAlgorithmVisualiser/static/js/main.948683f9.chunk.js.map",
+    "runtime-main.js": "/GaleShapleyAlgorithmVisualiser/static/js/runtime-main.bc69ad32.js",
+    "runtime-main.js.map": "/GaleShapleyAlgorithmVisualiser/static/js/runtime-main.bc69ad32.js.map",
+    "static/js/2.5b532c63.chunk.js": "/GaleShapleyAlgorithmVisualiser/static/js/2.5b532c63.chunk.js",
+    "static/js/2.5b532c63.chunk.js.map": "/GaleShapleyAlgorithmVisualiser/static/js/2.5b532c63.chunk.js.map",
+    "static/js/3.cf411ad0.chunk.js": "/GaleShapleyAlgorithmVisualiser/static/js/3.cf411ad0.chunk.js",
+    "static/js/3.cf411ad0.chunk.js.map": "/GaleShapleyAlgorithmVisualiser/static/js/3.cf411ad0.chunk.js.map",
+    "index.html": "/GaleShapleyAlgorithmVisualiser/index.html",
+    "static/css/main.bd3e61b6.chunk.css.map": "/GaleShapleyAlgorithmVisualiser/static/css/main.bd3e61b6.chunk.css.map",
+    "static/js/2.5b532c63.chunk.js.LICENSE.txt": "/GaleShapleyAlgorithmVisualiser/static/js/2.5b532c63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc69ad32.js",
+    "static/js/2.5b532c63.chunk.js",
+    "static/css/main.bd3e61b6.chunk.css",
+    "static/js/main.948683f9.chunk.js"
+  ]
+}
