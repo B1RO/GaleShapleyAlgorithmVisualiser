@@ -72,11 +72,8 @@ function App() {
                 }
             }
 
-            if (index + 1 === Object.keys(as).length) {
-                setIndex(0);
-            } else {
-                setIndex(index + 1);
-            }
+            index = Object.keys(bs).findIndex(b=>Object.values(matches).findIndex(matchedB=>matchedB===b)===-1);
+            console.log(index);
         }
     }
 
